@@ -1,1 +1,1 @@
-# Buy-Me-A-Coffee-Core
+**buy-me-a-coffee-core** is a decentralized tipping platform built on smart contracts, enabling creators to receive support directly from their audience in the form of crypto "coffees" — no middlemen, just pure appreciation.
