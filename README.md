@@ -10,8 +10,8 @@ A simple smart contract that lets users support creators by "buying a coffee" (s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BuyMeCoffee.git
-cd BuyMeCoffee
+git clone https://github.com/Jigz13/Buy-Me-A-Coffee-Core.git
+cd Buy-Me-a-Coffee-Core
 ```
 
 ### 2. Install Dependencies
